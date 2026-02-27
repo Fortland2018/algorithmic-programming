@@ -5,12 +5,11 @@ My own saved solutions to algorithmic problems
 
 This repository is organized into the following categories:
 
-- **[Arrays-and-Strings](./Arrays-and-Strings)** - Problems involving array and string manipulation
-- **[Trees-and-Graphs](./Trees-and-Graphs)** - Problems involving tree and graph data structures
-- **[Dynamic-Programming](./Dynamic-Programming)** - Dynamic programming problems
-- **[Sorting-and-Searching](./Sorting-and-Searching)** - Sorting and searching algorithms
-- **[Math-and-Logic](./Math-and-Logic)** - Mathematical and logical problems
-- **[Linked-Lists](./Linked-Lists)** - Problems involving linked list data structures
+- **[systems-architecture](./systems-architecture)** - Systems architecture and design problems
+- **[graph-algorithms](./graph-algorithms)** - Problems involving graph data structures and algorithms
+- **[tree-algorithms](./tree-algorithms)** - Problems involving tree data structures and algorithms
+- **[dynamic-programming](./dynamic-programming)** - Dynamic programming problems and techniques
+- **[greedy-and-data-structures](./greedy-and-data-structures)** - Greedy algorithms and fundamental data structures
 
 Each folder contains a README with more details about the types of problems it contains.
 
